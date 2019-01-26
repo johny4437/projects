@@ -1,0 +1,51 @@
+body{
+
+	background: linear-gradient(to right, #0fff00, blue);
+}
+
+form input {
+
+	width: 67%;
+	height: 90px;
+    font-size: 40px;
+    margin-left: 10px;
+ }
+
+
+table tr{
+
+	padding: 10px;
+	
+
+}
+
+table tr td{
+
+	padding: 10px;
+}
+
+table tr td input{
+
+	width: 70px;
+	height: 70px;
+	margin-right: 1px;
+	cursor: pointer;
+	background: #e94d1e;
+}
+
+table tr td svg{
+
+	width: 100px;
+	height: 30px;
+	
+
+}
+
+
+.main{
+
+	position: absolute;
+	top:50%;
+	left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+}
