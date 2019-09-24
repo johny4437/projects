@@ -1,2 +1,2 @@
 # projects
-Projetos em HTML CSS e JS
+Projects in JavaScript
